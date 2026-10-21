@@ -1,4 +1,4 @@
-# 0192. Word Frequency
+# 192. Word Frequency
 
 ## Solution 1: Basic Pipeline
 
