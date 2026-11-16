@@ -53,8 +53,8 @@ class Solution:
 
 | Metric | Value | Comment |
 |---|---|---|
-| Time Complexity | O(n) | Each character is processed once |
-| Space Complexity | O(n) | Stores characters across row strings |
+| TC | O(n) | Each character is processed once |
+| SC | O(n) | Stores characters across row strings |
 | Runtime | 13 ms | |
 | Memory | 19.37 MB | |
 
